@@ -40,6 +40,11 @@ img.tartare {
     border: 3px solid #424242;
 }
 
+.header {
+    margin: 80px 600px 80px 600px;
+    border: 4px dotted rgb(182, 136, 18);
+}
+
 .recipe-header {
     color: black;
 }
