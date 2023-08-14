@@ -45,6 +45,19 @@ img.tartare {
     border: 4px dotted rgb(182, 136, 18);
 }
 
+.recipelinks {
+    border: 20px ridge blanchedalmond;
+    margin: 150px 0 0 1500px;
+    padding-top: 100px;
+    padding-bottom: 400px;
+
+}
+
+.tuna {
+    display: block;
+    margin-bottom: 5px;
+}
+
 .recipe-header {
     color: black;
 }
